@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/episode-list/static/css/main.073c9b0a.css",
+    "main.js": "/episode-list/static/js/main.7454c992.js",
+    "index.html": "/episode-list/index.html",
+    "main.073c9b0a.css.map": "/episode-list/static/css/main.073c9b0a.css.map",
+    "main.7454c992.js.map": "/episode-list/static/js/main.7454c992.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7454c992.js"
+  ]
+}
